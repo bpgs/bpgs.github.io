@@ -11,4 +11,4 @@ Diese Seite kann man über <http://bpgs.github.io> oder über <http://github.bpg
 
 ## Weitere Seiten
 
-<animate.css.htm>
+<./animate.css.htm>
