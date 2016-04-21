@@ -5,7 +5,7 @@
 ### Links
 
 * Kurzlink <http://bpgs.de> oder <https://bpgs.de> erfordert immer explizit **http** oder **https**
-* Langlink [Anzeigetext](http://adresse.de "Titeltext")
+* Langlink [Anzeigetext](http://adresse.de "Titeltext"); kann auch ohne **http** sein also [zur Unterseite](/animate.css/ "Zur gh-pages Seite")
 
 ## Anleitung
 
