@@ -72,3 +72,48 @@ Fork:nein
 * gh-pages:<http://github.bpgs.de/moziloCMS-plugin-bxslider/>
 * releases:keine
 * wiki: leer
+
+### animate.css
+
+animate.css is a bunch of cool, fun, and cross-browser animations for you to use in your projects. Great for emphasis, home pages, sliders, and general just-add-water-awesomeness.
+
+forked from daneden/animate.css
+
+* master:<https://github.com/bpgs/animate.css>
+* ausbrackets:<https://github.com/bpgs/animate.css/tree/ausbrackets>
+* gh-pages:<http://github.bpgs.de/animate.css/>
+* releases:keine
+* wiki: leer
+ 
+### Lingulo-Responsive-Tutorial 
+
+HTML5 Responsive Website Tutorial by http://www.lingulo.com
+
+forked from ChristophAnastasiades/Lingulo-Responsive-Tutorial
+
+* master:<https://github.com/bpgs/Lingulo-Responsive-Tutorial>
+* gh-pages:keine
+* releases:keine
+* wiki: leer
+
+### telegram-template-blue
+
+A blue themed Telegram template
+
+forked from telegr-am/template-blue
+
+* master:<https://github.com/bpgs/Lingulo-Responsive-Tutorial>
+* gh-pages:keine
+* releases:keine
+* wiki: leer
+
+### howto 
+
+The Telegram How To pages 
+
+forked from telegr-am/howto
+
+* master:<https://github.com/bpgs/howto>
+* gh-pages:keine
+* releases:keine
+* wiki: leer
