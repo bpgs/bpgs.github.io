@@ -35,4 +35,5 @@ keine Beschreibung
 * master:<https://github.com/bpgs/testrepo> oder <https://github.com/bpgs/testrepo/tree/master>
 * master-01:<https://github.com/bpgs/testrepo/tree/master-01>
 * gh-pages:<http://github.bpgs.de/testrepo/> und <https://github.com/bpgs/testrepo/tree/gh-pages>
+* releases:<https://github.com/bpgs/testrepo/releases>
 * wiki: leer
