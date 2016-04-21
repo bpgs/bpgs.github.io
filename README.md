@@ -1,5 +1,12 @@
 # bpgs.github.io
 
+## Muster
+
+### Links
+
+* Kurzlink <http://bpgs.de> oder <//bpgs.de>
+* Langlink
+
 ## Anleitung
 
 siehe hierzu
@@ -10,6 +17,10 @@ siehe hierzu
 Diese Seite kann man über <http://bpgs.github.io> oder über <http://github.bpgs.de/> erreichen. beide Links verweisen auf den selben Inhalt.
 
 ## Weitere Seiten
+
+[Unterseite](http://xxxx.de "zu einer UNterseite wechseln")
+
+[Unterseite](http://xxxx.de "zu einer UNterseite wechseln")
 
 <./animate.css.htm>
 
