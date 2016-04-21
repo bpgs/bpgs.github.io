@@ -18,9 +18,9 @@ Diese Seite kann man über <http://bpgs.github.io> oder über <http://github.bpg
 
 ## Weitere Seiten
 
-[Unterseite](http://xxxx.de "zu einer UNterseite wechseln")
+[Unterseite1](./animate.css.htm "zu einer UNterseite wechseln")
 
-[Unterseite](http://xxxx.de "zu einer UNterseite wechseln")
+[Unterseite2](animate.css/ "zu einer UNterseite wechseln")
 
 <./animate.css.htm>
 
