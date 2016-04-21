@@ -4,8 +4,8 @@
 
 ### Links
 
-* Kurzlink <http://bpgs.de> oder <//bpgs.de>
-* Langlink
+* Kurzlink <http://bpgs.de> oder <https://bpgs.de> erfordert immer explizit **http** oder **https**
+* Langlink [Anzeigetext](http://adresse.de "Titeltext")
 
 ## Anleitung
 
