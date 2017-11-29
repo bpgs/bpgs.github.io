@@ -1337,6 +1337,18 @@ body {
   height: auto;
   min-height: 100vh;
 }
+.cid-qCmfaUMJAZ {
+  padding-top: 90px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qCmfaUMJAZ .mbr-section-subtitle {
+  color: #767676;
+  text-align: left;
+}
+.cid-qCmfaUMJAZ H2 {
+  text-align: left;
+}
 .cid-qCiNY1T4gl .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -1722,48 +1734,41 @@ body {
 .cid-qCiNY1T4gl .navbar-collapse {
   flex-basis: auto;
 }
-.cid-qCiBO3K4fx {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #232323;
+.cid-qCmeQsGLlk {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
 }
-.cid-qCiBO3K4fx .mbr-slider .carousel-control {
-  background: #1b1b1b;
+.cid-qCmeQsGLlk .counter-container {
+  color: #767676;
 }
-.cid-qCiBO3K4fx .mbr-slider .carousel-control-prev {
-  left: 0;
-  margin-left: 2.5rem;
+.cid-qCmeQsGLlk .counter-container ul {
+  margin-bottom: 0;
 }
-.cid-qCiBO3K4fx .mbr-slider .carousel-control-next {
-  right: 0;
-  margin-right: 2.5rem;
+.cid-qCmeQsGLlk .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
 }
-.cid-qCiBO3K4fx .mbr-slider .modal-body .close {
-  background: #1b1b1b;
-}
-.cid-qCiBO3K4fx .mbr-gallery-item > div::before {
+.cid-qCmeQsGLlk .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  padding-top: 3px;
   content: '';
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(to left, #554346, #45505b) !important;
-  opacity: 0;
-  -webkit-transition: 0.2s opacity ease-in-out;
-  transition: 0.2s opacity ease-in-out;
-}
-.cid-qCiBO3K4fx .mbr-gallery-title {
-  font-size: .9em;
-  position: absolute;
-  display: block;
-  width: 100%;
-  bottom: 0;
-  padding: 1rem;
-  color: #fff;
-  background: linear-gradient(to left, rgba(85, 67, 70, 0.85), rgba(69, 80, 91, 0.85)) !important;
-  -webkit-transition: 0.2s background ease-in-out;
-  transition: 0.2s background ease-in-out;
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #149dcc;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background: none;
+  border: 1px solid #149dcc;
+  color: #149dcc;
+  content: '✓';
 }
 .cid-qCiReTPKaF .navbar {
   padding: .5rem 0;
