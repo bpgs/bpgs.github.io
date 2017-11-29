@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Extensiontest",
-    "currentPage": "deltapicodeeditor.html",
+    "currentPage": "deltapieditor.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -34,7 +34,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 44,
+    "uniqCompNum": 50,
     "versionPublish": "4.4.1",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
@@ -1916,10 +1916,10 @@
         {
           "_params": {
             "anchor": "deltapicodeedit-t",
-            "codeEdit": false,
+            "codeEdit": true,
             "tinyEdit": false
           },
-          "_customHTML": "<pre class=\"html\"><code id=\"codenote-editor-2\" class=\"html hljs xml\" contenteditable=\"true\" style=\"width: inherit;\" data-mce-style=\"width: inherit;\" data-mce-selected=\"inline-boundary\"><span class=\"hljs-tag\">das&nbsp;ist&nbsp;ein&nbsp;komplett&nbsp;neuer&nbsp;Text﻿</span></code></pre>",
+          "_customHTML": "das ist ein komplett neuer Text﻿",
           "_customCSS": ".tinymce{background-color:white;text-align:center;}",
           "alias": "deltapicodeedit",
           "_tags": [
@@ -2872,6 +2872,25 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_params": {
+            "_customHTML": "Custom HTML",
+            "_customCSS": "p{color:white;}",
+            "bgImageRadio": false,
+            "bgImage": "http://home.scarlet.be/patrickdegand/assets/images/thumbnail-128x128-4.png",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#3366ff"
+          },
+          "_customHTML": "Custom HTML",
+          "_customCSS": "p{color:white;}",
+          "alias": "deltapieditor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "deltapieditor",
+          "_anchor": "deltapieditor-1d"
         }
       ]
     }
