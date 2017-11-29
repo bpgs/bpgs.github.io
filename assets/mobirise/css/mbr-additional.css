@@ -2156,12 +2156,15 @@ body {
   flex-basis: auto;
 }
 .cid-qClG1C7Fuh {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 90px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-qClG1C7Fuh .mbr-section-subtitle {
   color: #767676;
+  text-align: left;
+}
+.cid-qClG1C7Fuh H2 {
   text-align: left;
 }
 #htmlblock-block-d P {

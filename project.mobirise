@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Extensiontest",
-    "currentPage": "index.html",
+    "currentPage": "htmlblock.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -958,10 +958,13 @@
             ".mbr-section-subtitle": {
               "color": "#767676",
               "text-align": "left"
+            },
+            "H2": {
+              "text-align": "left"
             }
           },
           "_name": "content4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">Demo Seite mit HTML Block</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                    Um mit einem HTML-Block zu arbeiten, muss man die Erweiterung <b>HTML Block</b> installieren. Diese Erweiterung stammt nicht vom Anbieter des Mobirise Systems sondern von <b>DeltaPi</b>.</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">Demo Seite mit HTML Block</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                    Um mit einem HTML-Block zu arbeiten, muss man die Erweiterung <b>HTML Block</b> installieren. Diese Erweiterung stammt nicht vom Anbieter des Mobirise Systems sondern von <b>DeltaPi</b>.</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qClG1C7Fuh",
           "_anchor": "content4-c",
           "_protectedParams": [],
@@ -985,7 +988,7 @@
             "overlayOpacity": 0.5
           },
           "blockTitle": "<h3>Kurzbeschreibung HTML Block und gleichzeitig Beispiel für einen langen Text in einem HTML Block.</h3>",
-          "HTMLCode": "<p>Ein HTML Block hat nur eine bestimmte Breite, obwohl das Block-Element sich bei der Bearbeitung über die gesamte Breite erstreckt. Allerdings wird der angezeigte Text auch immer breiter, wenn man mehr Text eingibt. Zum Vergleich füge ich weiter unten noch einen HTML-Block mit wenig Text ein. Man wird dann sehen, dass bei diesem die Breite deutlich geringer ist.</p><p>So ein HTML-Block hat noch einen weiteren Nachteil: Bei der publizierten Webseite taucht nach einem Klick auf den HTML Block eine Art Online HTML Editor auf. Das erscheint mir volkkommen sinnlos. <span style=\"text-decoration: line-through;\" data-mce-style=\"text-decoration: line-through;\">Diesen Editor könnte man allenfalls beim Bearbeiten der Seite direkt in Mobirise gebrauchen. </span>Ich habe gerade festgestellt, dass dieser Editor auch direkt in Mobirise verfügbar ist.</p>",
+          "HTMLCode": "<p>Ein HTML Block hat nur eine bestimmte Breite, obwohl das Block-Element sich bei der Bearbeitung über die gesamte Breite erstreckt. Allerdings wird der angezeigte Text auch immer breiter, wenn man mehr Text eingibt. Zum Vergleich füge ich weiter unten noch einen HTML-Block mit wenig Text ein. Man wird dann sehen, dass bei diesem die Breite deutlich geringer ist.</p><p>So ein HTML-Block hat noch einen weiteren Nachteil: <span style=\"text-decoration: line-through;\" data-mce-style=\"text-decoration: line-through;\">Bei der publizierten Webseite taucht nach einem Klick auf den HTML Block eine Art Online HTML Editor auf. Das erscheint mir vollkommen sinnlos.</span> Ich habe gerade Festgestellt, dass dieser Editor nur erscheint, wenn man die Seiten mit Preview in Browser öffnet, bei der auf dem Webspace veröffentlichten Variante erscheint er nicht.&nbsp;<span style=\"text-decoration: line-through;\" data-mce-style=\"text-decoration: line-through;\">Diesen Editor könnte man allenfalls beim Bearbeiten der Seite direkt in Mobirise gebrauchen. </span>Ich habe gerade festgestellt, dass dieser Editor auch direkt in Mobirise verfügbar ist.</p>",
           "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
           "alias": "htmlblock",
           "_tags": [
@@ -1015,7 +1018,7 @@
             "overlayOpacity": 0.5
           },
           "blockTitle": "<h3>Kurzer Text in einem HTML Block</h3>",
-          "HTMLCode": "<p>Das ist nur ein kurzer Textabschnitt.</p>",
+          "HTMLCode": "<p>Das ist <span style=\"background-color: rgb(255, 255, 0);\" data-mce-style=\"background-color: #ffff00;\">nur</span> ein kurzer <span style=\"color: rgb(255, 0, 0);\" data-mce-style=\"color: #ff0000;\">Textabschnitt</span>.</p>",
           "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
           "alias": "htmlblock",
           "_tags": [
