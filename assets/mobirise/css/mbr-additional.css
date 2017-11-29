@@ -2565,12 +2565,15 @@ body {
   flex-basis: auto;
 }
 .cid-qClRdhidBs {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 90px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-qClRdhidBs .mbr-section-subtitle {
   color: #767676;
+  text-align: left;
+}
+.cid-qClRdhidBs H2 {
   text-align: left;
 }
 .cid-qCiRoBlXQk .navbar {
@@ -2965,6 +2968,9 @@ body {
 }
 .cid-qClXCYpjGV .mbr-section-subtitle {
   color: #767676;
+  text-align: left;
+}
+.cid-qClXCYpjGV H2 {
   text-align: left;
 }
 .cid-qCiRsyOWDU .navbar {
