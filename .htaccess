@@ -1,1 +1,4 @@
-# nichts
+# Umleitung auf https; siehe dazu https://pixelbar.be/blog/htaccess-schnippsel-https-erzwingen/
+RewriteEngine On
+RewriteCond %{HTTPS} !=on
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
