@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Extensiontest",
-    "currentPage": "testseite-eigene-erweiterung.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -44,7 +44,7 @@
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-    "html_before": "",
+    "html_before": "<meta name=\"google-site-verification\" content=\"GzMRscKq44zCXhOWHSUwYRiBJ9T-XXU0NPqRV77BOqY\" />",
     "headbody": "",
     "botbody": "",
     "sitemapSwitcher": "on"
