@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Extensiontest",
-    "currentPage": "deltapimodalblock.html",
+    "currentPage": "testseite-eigene-erweiterung.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2513,7 +2513,7 @@
             "myModalId": "myModal",
             "blockTitle": "<h1>Das ist der Titel</h1>",
             "text": "<h2>use : javascript:showModal('myModal');<br>as button URL to activate this modal window</h2>",
-            "bgColor": "#fefefe"
+            "bgColor": "#f2e50e"
           },
           "blockTitle": "<h1>Das ist der Titel</h1>",
           "text": "<h2>use : javascript:showModal('myModal');<br>as button URL to activate this modal window</h2>",
