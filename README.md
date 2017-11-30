@@ -14,7 +14,7 @@ siehe hierzu
 
 ## Eigene Links
 
-Diese Seite kann man über <http://bpgs.github.io> oder über <http://github.bpgs.de/> erreichen. beide Links verweisen auf den selben Inhalt.
+Diese Seite kann man über <http://bpgs.github.io> oder über <http://github.bpgs.de/> erreichen. Beide Links verweisen auf den selben Inhalt. Für die Erreichbarkeit unter **https** wurde eine .htaccess erstellt und gefüllt, hat aber irgendwie keine Wirkung. Die Links sind <https://bpgs.github.io> bzw. <https://github.bpgs.de/>
 
 ## Weitere Seiten
 
