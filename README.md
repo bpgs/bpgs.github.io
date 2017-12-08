@@ -2,7 +2,7 @@
 
 ## Über diese Repotitorie
 
-Diese Repositorie ist die Heimat einer Website, die unter <http://github.bpgs.de/> zu erreichen ist
+Diese Repositorie ist die Heimat einer Website, die unter <http://github.bpgs.de/> zu erreichen ist. Die dort zugängliche Website wurde mit dem Programm Mobirise erstellt. Mit Mobirise kann man die einzelnen Seiten per FTP auf den Webspace hochladen, man kann diese aber auch auf Github veröffentlichen.
 
 ## Muster
 
