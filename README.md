@@ -1,5 +1,9 @@
 # bpgs.github.io
 
+## Über diese Repotitorie
+
+Diese Repositorie ist die Heimat einer Website, die unter <http://github.bpgs.de/> zu erreichen ist
+
 ## Muster
 
 ### Links
