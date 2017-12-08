@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Extensiontest",
-    "currentPage": "index.html",
+    "currentPage": "deltapimodalblock.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -35,7 +35,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 94,
+    "uniqCompNum": 96,
     "versionPublish": "4.4.1",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
@@ -45,7 +45,7 @@
     "noImageResize": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "html_before": "<meta name=\"google-site-verification\" content=\"GzMRscKq44zCXhOWHSUwYRiBJ9T-XXU0NPqRV77BOqY\" />",
-    "headbody": "<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\r\n<!-- PMBlog ohne-en.de.cool responsiv -->\r\n<ins class=\"adsbygoogle\"\r\n     style=\"display:block\"\r\n     data-ad-client=\"ca-pub-1640786225448363\"\r\n     data-ad-slot=\"5446917053\"\r\n     data-ad-format=\"auto\"></ins>\r\n<script>\r\n(adsbygoogle = window.adsbygoogle || []).push({});\r\n</script>",
+    "headbody": "",
     "botbody": "<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\r\n<!-- PMBlog ohne-en.de.cool responsiv -->\r\n<ins class=\"adsbygoogle\"\r\n     style=\"display:block\"\r\n     data-ad-client=\"ca-pub-1640786225448363\"\r\n     data-ad-slot=\"5446917053\"\r\n     data-ad-format=\"auto\"></ins>\r\n<script>\r\n(adsbygoogle = window.adsbygoogle || []).push({});\r\n</script>",
     "sitemapSwitcher": "on",
     "path": "@PROJECT_PATH@",
@@ -763,7 +763,7 @@
             }
           },
           "_name": "content4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\">Google Adsense Werbung in Mobirise Website</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-7\">Die kostenlose Variante von Mobirise verfügt nicht über einen eigenen Codeeditor, den gibt es nur, wenn man bezahlt. ich habe daraufhin mit verschiednen Erweiterungen erfolglos experimentiert. Schließlich habe ich den <b>Google Adsense Code</b> mit Hilfe der <b>Extension HeadBody</b> im Feld  <b>Before Closing Body</b> eingefügt. Dadurch wird Adsense Werbung jetzt auf jeder Eintzelseite angezeigt, allerdings erfolgt die Anzeige der Werbung jetzt ganz am Ende der jeweiligen Seiten, quasi außerhalb des eigentlichen Designs.</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\">Google Adsense Werbung in Mobirise Website</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-7\">Die kostenlose Variante von Mobirise verfügt nicht über einen eigenen Codeeditor, den gibt es nur, wenn man bezahlt. ich habe daraufhin mit verschiednen Erweiterungen erfolglos experimentiert. Schließlich habe ich den <b>Google Adsense Code</b> mit Hilfe der <b>Extension HeadBody</b> im Feld  <b>Before Closing Body</b> eingefügt. Dadurch wird Adsense Werbung jetzt auf jeder Eintzelseite angezeigt, allerdings erfolgt die Anzeige der Werbung jetzt ganz am Ende der jeweiligen Seiten, quasi außerhalb des eigentlichen Designs.<br>Man kann zwar den Adsense Code auch mit Hilfe der genannten Erweiterung im Feld <b>After Body</b> einfügen (d.h. der Code wird gleich nach dem öffnenden &lt;body&gt;-Tag eingefügt, dann wird die Werbung zwar angezeigt, sie wird aber von der Menüleiste überlagert.</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qDcJBZw79M",
           "_protectedParams": [],
           "_global": false,
@@ -2345,11 +2345,11 @@
             "showModal": false,
             "myModalId": "myModal",
             "blockTitle": "<h1>Das ist der Titel</h1>",
-            "text": "<h2>use : javascript:showModal('myModal');<br>as button URL to activate this modal window</h2>",
-            "bgColor": "#f2e50e"
+            "text": "<h2>use : javascript:showModal('myModal');<br>as button URL to activate this modal window</h2>\n<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n<!-- PMBlog ohne-en.de.cool responsiv -->\n<ins class=\"adsbygoogle\"\n     style=\"display:block\"\n     data-ad-client=\"ca-pub-1640786225448363\"\n     data-ad-slot=\"5446917053\"\n     data-ad-format=\"auto\"></ins>\n<script>\n(adsbygoogle = window.adsbygoogle || []).push({});\n</script>",
+            "bgColor": "#f9f295"
           },
           "blockTitle": "<h1>Das ist der Titel</h1>",
-          "text": "<h2>use : javascript:showModal('myModal');<br>as button URL to activate this modal window</h2>",
+          "text": "<h2>use : javascript:showModal('myModal');<br>as button URL to activate this modal window</h2>\n<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n<!-- PMBlog ohne-en.de.cool responsiv -->\n<ins class=\"adsbygoogle\"\n     style=\"display:block\"\n     data-ad-client=\"ca-pub-1640786225448363\"\n     data-ad-slot=\"5446917053\"\n     data-ad-format=\"auto\"></ins>\n<script>\n(adsbygoogle = window.adsbygoogle || []).push({});\n</script>",
           "alias": "modalblock",
           "_tags": [
             "Extension"
@@ -2804,7 +2804,7 @@
             }
           },
           "_name": "content4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">Demoseite DeltaPi Editor</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                    Der Editor ist ebenfalls eine erweiterung von DeltaPi. Dieser Editor ist sehr einfach aufgebaut. Im Entwurfsmodus funktioniert er gut, aber auf der veröffentlichen Seite ist nichts zu sehen.</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">Demoseite DeltaPi Editor</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                    Der Editor ist ebenfalls eine erweiterung von DeltaPi. Dieser Editor ist sehr einfach aufgebaut. Im Entwurfsmodus funktioniert er gut, aber auf der veröffentlichen Seite ist nichts zu sehen.</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qCm52XTHjp",
           "_anchor": "content4-l",
           "_protectedParams": [],
@@ -2814,7 +2814,7 @@
         },
         {
           "_params": {
-            "_customHTML": "Custom HTML",
+            "_customHTML": "<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n<!-- PMBlog ohne-en.de.cool responsiv -->\n<ins class=\"adsbygoogle\"\n     style=\"display:block\"\n     data-ad-client=\"ca-pub-1640786225448363\"\n     data-ad-slot=\"5446917053\"\n     data-ad-format=\"auto\"></ins>\n<script>\n(adsbygoogle = window.adsbygoogle || []).push({});\n</script>",
             "_customCSS": "p{color:white;}",
             "bgImageRadio": false,
             "bgImage": "http://home.scarlet.be/patrickdegand/assets/images/thumbnail-128x128-4.png",
@@ -2822,7 +2822,7 @@
             "bgColorRadio": true,
             "bgColor": "#3366ff"
           },
-          "_customHTML": "Custom HTML",
+          "_customHTML": "<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n<!-- PMBlog ohne-en.de.cool responsiv -->\n<ins class=\"adsbygoogle\"\n     style=\"display:block\"\n     data-ad-client=\"ca-pub-1640786225448363\"\n     data-ad-slot=\"5446917053\"\n     data-ad-format=\"auto\"></ins>\n<script>\n(adsbygoogle = window.adsbygoogle || []).push({});\n</script>",
           "_customCSS": "p{color:white;}",
           "alias": "deltapieditor",
           "_tags": [
@@ -3254,6 +3254,25 @@
           "_global": true,
           "_once": "menu",
           "_params": {}
+        },
+        {
+          "_params": {
+            "_customHTML": "Werbung\n<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n<!-- PMBlog ohne-en.de.cool responsiv -->\n<ins class=\"adsbygoogle\"\n     style=\"display:block\"\n     data-ad-client=\"ca-pub-1640786225448363\"\n     data-ad-slot=\"5446917053\"\n     data-ad-format=\"auto\"></ins>\n<script>\n(adsbygoogle = window.adsbygoogle || []).push({});\n</script>",
+            "_customCSS": "p{color:white;}",
+            "bgImageRadio": false,
+            "bgImage": "http://home.scarlet.be/patrickdegand/assets/images/thumbnail-128x128-4.png",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#3366ff"
+          },
+          "_customHTML": "Werbung\n<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n<!-- PMBlog ohne-en.de.cool responsiv -->\n<ins class=\"adsbygoogle\"\n     style=\"display:block\"\n     data-ad-client=\"ca-pub-1640786225448363\"\n     data-ad-slot=\"5446917053\"\n     data-ad-format=\"auto\"></ins>\n<script>\n(adsbygoogle = window.adsbygoogle || []).push({});\n</script>",
+          "_customCSS": "p{color:white;}",
+          "alias": "deltapieditor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "deltapieditor",
+          "_anchor": "deltapieditor-2n"
         }
       ]
     },
