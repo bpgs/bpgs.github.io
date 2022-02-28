@@ -4,7 +4,7 @@
 
 Diese Repositorie ist die Heimat einer Website, die unter <http://github.bpgs.de/> zu erreichen ist. Die dort zugängliche Website wurde mit dem Programm Mobirise erstellt. Mit Mobirise kann man die einzelnen Seiten per FTP auf den Webspace hochladen, man kann diese aber auch auf Github* veröffentlichen.
 
-* Die direkte Veröffentlichung auf Github funktionierte lange Zeit noch mit der Version 4.4.1 von Mobirise. Jetzt klappt das aber, mit der gleichen Version, nicht mehr. Man muss, wenn man so eine Mobirise-Website weiter bei Github publizieren will, einen Umweg gehen. Man publiziert die Inhalte zuerst lokal (auf dem PC) und schiebt sie dann mit Github-Desktop nach Github.
+*Die direkte Veröffentlichung auf Github funktionierte lange Zeit noch mit der Version 4.4.1 von Mobirise. Jetzt klappt das aber, mit der gleichen Version, nicht mehr. Man muss, wenn man so eine Mobirise-Website weiter bei Github publizieren will, einen Umweg gehen. Man publiziert die Inhalte zuerst lokal (auf dem PC) und schiebt sie dann mit Github-Desktop nach Github.
 
 ## Muster
 
