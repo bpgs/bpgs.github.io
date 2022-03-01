@@ -3340,48 +3340,10 @@ body {
 .cid-qCm4vMYAHC H2 {
   text-align: left;
 }
-.cid-qCmF7vOaJ4 {
-  padding-top: 30px;
-  padding-bottom: 30px;
+.cid-sYRQYo4gxl {
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #ffffff;
-}
-#modal-block-15 .panel-body {
-  padding: 15px;
-}
-#modal-block-15 modal {
-  display: mone;
-  position: fixed;
-  zIndex: 1;
-  paddingTop: 100px;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  overflow: auto;
-  backgroundColor: rgba(0, 0, 0, 0.4);
-}
-#modal-block-15 modal_content {
-  backgroundColor: #fefefe;
-  margin: auto;
-  padding: 20px;
-  border: 1px solid #888;
-  width: 60%;
-}
-#modal-block-15 close {
-  color: #aaaaaa;
-  float: right;
-  fontSize: 28px;
-  fontWeight: bold;
-}
-#modal-block-15 close_hover {
-  color: #000;
-  textDecoration: none;
-  cursor: pointer;
-}
-#modal-block-15 close_focus {
-  color: #000;
-  textDecoration: none;
-  cursor: pointer;
 }
 .cid-qCt2TGEuTV .navbar {
   padding: .5rem 0;
@@ -3767,6 +3729,82 @@ body {
 }
 .cid-qCt2TGEuTV .navbar-collapse {
   flex-basis: auto;
+}
+#modal-block-3p .panel-body {
+  padding: 15px;
+}
+#modal-block-3p modal {
+  display: mone;
+  position: fixed;
+  zIndex: 1;
+  paddingTop: 100px;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  backgroundColor: rgba(0, 0, 0, 0.4);
+}
+#modal-block-3p modal_content {
+  backgroundColor: #fefefe;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 60%;
+}
+#modal-block-3p close {
+  color: #aaaaaa;
+  float: right;
+  fontSize: 28px;
+  fontWeight: bold;
+}
+#modal-block-3p close_hover {
+  color: #000;
+  textDecoration: none;
+  cursor: pointer;
+}
+#modal-block-3p close_focus {
+  color: #000;
+  textDecoration: none;
+  cursor: pointer;
+}
+#modal-block-3q .panel-body {
+  padding: 15px;
+}
+#modal-block-3q modal {
+  display: mone;
+  position: fixed;
+  zIndex: 1;
+  paddingTop: 100px;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  backgroundColor: rgba(0, 0, 0, 0.4);
+}
+#modal-block-3q modal_content {
+  backgroundColor: #fefefe;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 60%;
+}
+#modal-block-3q close {
+  color: #aaaaaa;
+  float: right;
+  fontSize: 28px;
+  fontWeight: bold;
+}
+#modal-block-3q close_hover {
+  color: #000;
+  textDecoration: none;
+  cursor: pointer;
+}
+#modal-block-3q close_focus {
+  color: #000;
+  textDecoration: none;
+  cursor: pointer;
 }
 .cid-sYRGfHpQuV {
   padding-top: 60px;

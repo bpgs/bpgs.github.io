@@ -24,7 +24,7 @@
   
 <meta name="google-site-verification" content="GzMRscKq44zCXhOWHSUwYRiBJ9T-XXU0NPqRV77BOqY" /></head>
 <body>
-<section class="menu cid-qCt2TGEuTV" once="menu" id="menu1-1y" data-rv-view="522">
+<section class="menu cid-qCt2TGEuTV" once="menu" id="menu1-1y" data-rv-view="704">
 
     
 
@@ -62,7 +62,7 @@
     </nav>
 </section>
 
-<section class="engine"><a href="https://mobirise.co/n">bootstrap modal form</a></section><section class="mbr-section content4 cid-qCm4vMYAHC" id="content4-j" data-rv-view="519">
+<section class="engine"><a href="https://mobirise.co/o">bootstrap buttons</a></section><section class="mbr-section content4 cid-qCm4vMYAHC" id="content4-j" data-rv-view="701">
 
     
 
@@ -70,42 +70,37 @@
         <div class="media-container-row">
             <div class="title col-12 col-md-8">
                 <h2 class="align-center pb-3 mbr-fonts-style display-2">Demo Seite Erweiterung DeltaPi Modal Block</h2>
-                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-7">Die Erweiterung <strong>DeltaPi Modal Block</strong> wird nicht durch Mobirise zur Verfügung gestellt, sondern, wie der Name schon andeutet, durch <strong>DeltaPi</strong>.</h3>
+                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-7">Die Erweiterung <strong>DeltaPi Modal Block</strong> wird nicht durch Mobirise zur Verfügung gestellt, sondern, wie der Name schon andeutet, durch <strong>DeltaPi</strong>.<br>Damit kann man Modalblöcke in eine Seite einbauen, wenn man möchte auch mehrere. Diese müssen dann aber unterschiedliche ID haben. Zum Aktivieren der Modalfenster ist ein weiterer Block (oder weitere Blöcke) erforderlich, bei denen dann ein entsprechender kurzer JavaScript-Link eingefügt werden muss.</h3>
                 
             </div>
         </div>
     </div>
 </section>
 
-<section class="mbr-section content8 cid-qCmF7vOaJ4" id="content8-16" data-rv-view="521">
+<section class="mbr-section content8 cid-sYRQYo4gxl" id="content8-3r" data-rv-view="703">
 
     
 
     <div class="container">
         <div class="media-container-row title">
             <div class="col-12 col-md-8">
-                <div class="mbr-section-btn align-center"><a class="btn btn-primary display-4" href="javascript:showModal('myModal');">Zeige Modal myModal1</a></div>
+                <div class="mbr-section-btn align-center"><a class="btn btn-primary display-4" href="javascript:showModal('myModal1');">LEARN MORE</a>
+                    <a class="btn btn-black-outline display-4" href="javascript:showModal('myModal2');">LIVE DEMO</a></div>
             </div>
         </div>
     </div>
 </section>
 
-<section class="mbr-section modalblock" style="padding-top: 20px; padding-bottom: 20px; display: none;" data-rv-view="93">
+<section class="mbr-section modalblock" style="padding-top: 20px; padding-bottom: 20px; display: none;" data-rv-view="567">
 Modal Block (this text will not display when preview/publishing !) Use settings button to customize ---&gt;
-</section><section class="mbr-section" id="modal-block-15" data-rv-view="93">
+</section><section class="mbr-section" id="modal-block-3p" data-rv-view="567">
 <div class="modal" id="myModal1" style="display: none;">
 	<div class="container">
 		<div class="row">
-			<div class="modal-content col-12 col-md-8" style="background-color: rgb(249, 242, 149);">
+			<div class="modal-content col-12 col-md-8" style="background-color: rgb(254, 254, 254);">
 				<span class="close" onclick="hideModal();">X</span>
-				<div class="panel-body"><h1>Das ist der Titel</h1></div>
-				<div class="panel-body"><p></p><h2>use : javascript:showModal('myModal');<br>as button URL to activate this modal window</h2>
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- PMBlog ohne-en.de.cool responsiv -->
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-1640786225448363" data-ad-slot="5446917053" data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script><p></p></div>
+				<div class="panel-body"><h1>Modal Block Title</h1></div>
+				<div class="panel-body"><p></p><h2>use : javascript:showModal('myModal1');<br>as button URL to activate this modal window</h2><p></p></div>
 			</div>
 		</div>
 	</div>
@@ -122,7 +117,33 @@ function hideModal() {
 </script>
 </section>
 
-<section class="cid-sYRGfHpQuV" id="footer1-3m" data-rv-view="524">
+<section class="mbr-section modalblock" style="padding-top: 20px; padding-bottom: 20px; display: none;" data-rv-view="569">
+Modal Block (this text will not display when preview/publishing !) Use settings button to customize ---&gt;
+</section><section class="mbr-section" id="modal-block-3q" data-rv-view="569">
+<div class="modal" id="myModal2" style="display: none;">
+	<div class="container">
+		<div class="row">
+			<div class="modal-content col-12 col-md-8" style="background-color: rgb(254, 254, 254);">
+				<span class="close" onclick="hideModal();">X</span>
+				<div class="panel-body"><h1>Modal Block 2 Title</h1></div>
+				<div class="panel-body"><p></p><h2>use : javascript:showModal('myModal2');<br>as button URL to activate this modal window</h2><p></p></div>
+			</div>
+		</div>
+	</div>
+</div>	
+
+<script>
+function showModal(myId) {
+	var modal = document.getElementById(myId);
+	    modal.style.display = "block";
+}
+function hideModal() {
+	$(".modal").hide();
+}
+</script>
+</section>
+
+<section class="cid-sYRGfHpQuV" id="footer1-3m" data-rv-view="706">
 
     
 

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GithubExtensiontest",
-    "currentPage": "accordion.html",
+    "currentPage": "deltapimodalblock.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -35,7 +35,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 133,
+    "uniqCompNum": 137,
     "versionPublish": "4.4.1",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
@@ -2540,7 +2540,7 @@
             }
           },
           "_name": "content4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">Demo Seite Erweiterung DeltaPi Modal Block</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-7\">Die Erweiterung <b>DeltaPi Modal Block</b> wird nicht durch Mobirise zur Verfügung gestellt, sondern, wie der Name schon andeutet, durch <b>DeltaPi</b>.</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"https://9f8.de\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\"></span>LEARN MORE</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">Demo Seite Erweiterung DeltaPi Modal Block</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-7\">Die Erweiterung <b>DeltaPi Modal Block</b> wird nicht durch Mobirise zur Verfügung gestellt, sondern, wie der Name schon andeutet, durch <b>DeltaPi</b>.<br>Damit kann man Modalblöcke in eine Seite einbauen, wenn man möchte auch mehrere. Diese müssen dann aber unterschiedliche ID haben. Zum Aktivieren der Modalfenster ist ein weiterer Block (oder weitere Blöcke) erforderlich, bei denen dann ein entsprechender kurzer JavaScript-Link eingefügt werden muss.</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"https://9f8.de\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\"></span>LEARN MORE</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qCm4vMYAHC",
           "_anchor": "content4-j",
           "_protectedParams": [],
@@ -2555,70 +2555,13 @@
             "background-color": "@bgColor"
           },
           "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"javascript:showModal('myModal');\">Zeige Modal myModal1</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "qCmF7vOaJ4",
-          "_anchor": "content8-16",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"javascript:showModal('myModal1');\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"javascript:showModal('myModal2');\">LIVE DEMO</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "sYRQYo4gxl",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
-            ".panel-body": {
-              "padding": "15px"
-            },
-            "modal": {
-              "display": "mone",
-              "position": "fixed",
-              "zIndex": "1",
-              "paddingTop": "100px",
-              "left": "0",
-              "top": "0",
-              "width": "100%",
-              "height": "100%",
-              "overflow": "auto",
-              "backgroundColor": "rgba(0,0,0,0.4)"
-            },
-            "modal_content": {
-              "backgroundColor": "#fefefe",
-              "margin": "auto",
-              "padding": "20px",
-              "border": "1px solid #888",
-              "width": "60%"
-            },
-            "close": {
-              "color": "#aaaaaa",
-              "float": "right",
-              "fontSize": "28px",
-              "fontWeight": "bold"
-            },
-            "close_hover": {
-              "color": "#000",
-              "textDecoration": "none",
-              "cursor": "pointer"
-            },
-            "close_focus": {
-              "color": "#000",
-              "textDecoration": "none",
-              "cursor": "pointer"
-            }
-          },
-          "_params": {
-            "showModal": false,
-            "myModalId": "myModal1",
-            "blockTitle": "<h1>Das ist der Titel</h1>",
-            "text": "<h2>use : javascript:showModal('myModal');<br>as button URL to activate this modal window</h2>\n<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n<!-- PMBlog ohne-en.de.cool responsiv -->\n<ins class=\"adsbygoogle\"\n     style=\"display:block\"\n     data-ad-client=\"ca-pub-1640786225448363\"\n     data-ad-slot=\"5446917053\"\n     data-ad-format=\"auto\"></ins>\n<script>\n(adsbygoogle = window.adsbygoogle || []).push({});\n</script>",
-            "bgColor": "#f9f295"
-          },
-          "blockTitle": "<h1>Das ist der Titel</h1>",
-          "text": "<h2>use : javascript:showModal('myModal');<br>as button URL to activate this modal window</h2>\n<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n<!-- PMBlog ohne-en.de.cool responsiv -->\n<ins class=\"adsbygoogle\"\n     style=\"display:block\"\n     data-ad-client=\"ca-pub-1640786225448363\"\n     data-ad-slot=\"5446917053\"\n     data-ad-format=\"auto\"></ins>\n<script>\n(adsbygoogle = window.adsbygoogle || []).push({});\n</script>",
-          "alias": "modalblock",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "modal-block",
-          "_anchor": "modal-block-15"
+          "_params": {},
+          "_anchor": "content8-3r"
         },
         {
           "_styles": {
@@ -3022,6 +2965,120 @@
           "_global": true,
           "_once": "menu",
           "_params": {}
+        },
+        {
+          "_styles": {
+            ".panel-body": {
+              "padding": "15px"
+            },
+            "modal": {
+              "display": "mone",
+              "position": "fixed",
+              "zIndex": "1",
+              "paddingTop": "100px",
+              "left": "0",
+              "top": "0",
+              "width": "100%",
+              "height": "100%",
+              "overflow": "auto",
+              "backgroundColor": "rgba(0,0,0,0.4)"
+            },
+            "modal_content": {
+              "backgroundColor": "#fefefe",
+              "margin": "auto",
+              "padding": "20px",
+              "border": "1px solid #888",
+              "width": "60%"
+            },
+            "close": {
+              "color": "#aaaaaa",
+              "float": "right",
+              "fontSize": "28px",
+              "fontWeight": "bold"
+            },
+            "close_hover": {
+              "color": "#000",
+              "textDecoration": "none",
+              "cursor": "pointer"
+            },
+            "close_focus": {
+              "color": "#000",
+              "textDecoration": "none",
+              "cursor": "pointer"
+            }
+          },
+          "_params": {
+            "showModal": false,
+            "myModalId": "myModal1",
+            "blockTitle": "<h1>Modal Block Title</h1>",
+            "text": "<h2>use : javascript:showModal('myModal1');<br>as button URL to activate this modal window</h2>",
+            "bgColor": "#fefefe"
+          },
+          "blockTitle": "<h1>Modal Block Title</h1>",
+          "text": "<h2>use : javascript:showModal('myModal1');<br>as button URL to activate this modal window</h2>",
+          "alias": "modalblock",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "modal-block",
+          "_anchor": "modal-block-3p"
+        },
+        {
+          "_styles": {
+            ".panel-body": {
+              "padding": "15px"
+            },
+            "modal": {
+              "display": "mone",
+              "position": "fixed",
+              "zIndex": "1",
+              "paddingTop": "100px",
+              "left": "0",
+              "top": "0",
+              "width": "100%",
+              "height": "100%",
+              "overflow": "auto",
+              "backgroundColor": "rgba(0,0,0,0.4)"
+            },
+            "modal_content": {
+              "backgroundColor": "#fefefe",
+              "margin": "auto",
+              "padding": "20px",
+              "border": "1px solid #888",
+              "width": "60%"
+            },
+            "close": {
+              "color": "#aaaaaa",
+              "float": "right",
+              "fontSize": "28px",
+              "fontWeight": "bold"
+            },
+            "close_hover": {
+              "color": "#000",
+              "textDecoration": "none",
+              "cursor": "pointer"
+            },
+            "close_focus": {
+              "color": "#000",
+              "textDecoration": "none",
+              "cursor": "pointer"
+            }
+          },
+          "_params": {
+            "showModal": true,
+            "myModalId": "myModal2",
+            "blockTitle": "<h1>Modal Block 2 Title</h1>",
+            "text": "<h2>use : javascript:showModal('myModal2');<br>as button URL to activate this modal window</h2>",
+            "bgColor": "#fefefe"
+          },
+          "blockTitle": "<h1>Modal Block 2 Title</h1>",
+          "text": "<h2>use : javascript:showModal('myModal2');<br>as button URL to activate this modal window</h2>",
+          "alias": "modalblock",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "modal-block",
+          "_anchor": "modal-block-3q"
         },
         {
           "_styles": {
